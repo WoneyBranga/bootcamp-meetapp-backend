@@ -15,7 +15,7 @@ module.exports = {
     sourceType: 'module',
   },
   rules: {
-    "class-method-use-this": "off",
+    "class-methods-use-this": "off",
     "no-param-reassign": "off",
     "camlcase": "off",
     "no-unused-vars": ["error", {"argsIgnorePattern": "next"}],
