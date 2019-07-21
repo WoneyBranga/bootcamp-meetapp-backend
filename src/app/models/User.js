@@ -1,6 +1,6 @@
 import Sequelize, { Model } from 'sequelize';
 import bcrypt from 'bcryptjs';
-import { isError } from 'util';
+// import { isError } from 'util';
 
 
 class User extends Model {
